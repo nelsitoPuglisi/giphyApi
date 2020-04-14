@@ -1,0 +1,2 @@
+rootProject.name='GiphyAPI'
+include ':app'
